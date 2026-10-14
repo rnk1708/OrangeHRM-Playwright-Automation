@@ -1,0 +1,25 @@
+
+{
+    "validUser": {
+        "username": "Admin",
+        "password": "admin123"
+    },
+
+    "invalidUser": {
+        "username": "InvalidUser",
+        "password": "InvalidPassword123"
+    },
+
+    "whitespaceUser": {
+        "username": " Admin ",
+        "password": "admin123"
+    },
+
+    "specialCharacterPassword": "@Admin#123!$%",
+
+    "caseSensitiveUsername": "admin",
+
+    "sqlInjection": "' OR '1'='1",
+
+    "boundaryLength": 256
+}

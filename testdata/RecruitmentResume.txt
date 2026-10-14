@@ -1,0 +1,2 @@
+Recruitment module automation resume test file.
+This file is used only to demonstrate Playwright file upload functionality.
